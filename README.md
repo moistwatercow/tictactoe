@@ -2,6 +2,8 @@
 A simple command line tictactoe game made with c.<br>
 My first c program so don't judge 🪑
 
+Planning to rewrite this with the ncurses library to make it nice and fancy.
+
 ## Installation
 Either use the precompiled binary or compile it yourself with this command:<br>
 `$ gcc main.c -o tictactoe`
